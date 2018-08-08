@@ -24,5 +24,5 @@ Provided a variety of portrait and landscape layouts to support both phones and 
 <img src="fullscreen_landscape.png" alt="Orchid Sunroom Image Fullscreen" width="600">
 ## Contributors
 
-Jill Heske
+Copyright Jill Heske 2018 all rights reserved
 
