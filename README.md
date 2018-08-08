@@ -19,11 +19,9 @@ Provided a variety of portrait and landscape layouts to support both phones and 
 
 ## Screenshots
 
-<img src="main_screen_portrait.png" alt="Orchid Sunroom Main Screen" width="300">
+<img src="main_screen_portrait.png" alt="Orchid Sunroom Main Screen" width="300"> <img src="detail_screen_portrait.png" alt="Orchid Sunroom Detail Screen" width="300">
 
-<img src="detail_screen_portrait.png" alt="Orchid Sunroom Detail Screen" width="300">
-
-<img src="fullscreen_landscape.png" alt="Orchid Sunroom Image Fullscreen" width="600">
+<img src="fullscreen_landscape.png" alt="Orchid Sunroom Image Fullscreen" height="600">
 ## Contributors
 
 Jill Heske
