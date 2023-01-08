@@ -35,7 +35,25 @@ Currently the Orchid screen has only one format option. Future versions will inc
 
 ### Edit an Orchid
 
+Use this screen you can edit most of the fields shown on the Details page. See a few examples below.
+
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-3.png" height="500" width="250">
+
+### Edit an Orchid's Environment
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-environment.png" height="500" width="250">
+
+### Edit an Orchid's Growth Stage
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-growth-stage.png" height="500" width="250">
+
+### Edit an Orchid's Media
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-media.png" height="500" width="250">
+
+### Edit an Orchid's Repotting Schedule
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-repot-schedule.png" height="500" width="250">
 
 ## Today Tab
 
@@ -47,14 +65,27 @@ This screen facilitates your daily review of you collection. It allows you to ad
 
 The Journal show your collection with a chronological list of events in each orchid's life and care, including when it was added to your collection, was watered, bloomed, etc.  
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
+### Journal for All Orchids
 
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250">
+
+### Journal for All Orchids
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
+
+### Journal for a Single Orchid
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="500" width="250"> 
 
 ## More Tab
 
 The More screen contains a menu of additional features. The only available option so far is screen with a searchable list of all orchid genera. 
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-more-tab.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-search-genera.png" height="500" width="250">
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-more-tab.png" height="500" width="250">
+
+### Searchable List of Genera
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-search-genera.png" height="500" width="250">
 
 # About Me
 
