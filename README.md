@@ -23,11 +23,22 @@ Before release to the general public on the Play Store all apps undergo a beta t
 
 ## Orchids Tab
 
-This screen screen displays your entire catalog in an endless scrolling list. Clicking on an orchid opens a separate screen where you can edit your orchid and set up its watering and fertilizing schedules.
+This screen screen displays your entire catalog in an endless scrolling list. Clicking on an orchid opens a separate screen where you can edit your orchid and set up its watering and fertilizing schedules. You also use this screen to add new orchids to your collection.
 	
 Currently the Orchid screen has only one format option. Future versions will include additional formats for displaying your orchids including but not limited to as a list, as a grid with smaller icons, and will offer filter and search features.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="500" width="250">
+
+### Add an Orchid
+
+The app allows you add as many orchids as you like. 
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid.png" height="500" width="250">
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid-select-genus" height="500" width="250">
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid-species.png" height="500" width="250">
+
 
 ### Image Gallery
 
@@ -37,7 +48,7 @@ Each orchid has its own image gallery. You can add or remove as many images as y
 
 ### Orchid Details
 
-Use this screen to edit most of the details for your orchid. The app will use information you enter or select to help you search and sort your collection. It also facilitates showing alerts and icons for watering, repotting, and fertilizing schedules.
+Here you can dit most of the details for your orchid. The app will use the information you provide on this screen to help you search and sort your collection. It also facilitates showing reminders and icons for watering, repotting, and fertilizing schedules.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="500" width="250">
 
@@ -71,7 +82,7 @@ This screen facilitates your daily review of you collection. It allows you to ad
 
 ## Journal Tab
 
-The Journal show your collection with a chronological list of events in each orchid's life and care, including when it was added to your collection, was watered, bloomed, etc.  
+This screen displays the Journal for your entire collection. The Journal is a timeline of events in each orchid's life and care, including when it was added to your collection, was watered, bloomed, etc. You can also view an orchid's individual Journal on its own page.
 
 ### Journal for All Orchids
 
@@ -87,7 +98,7 @@ The Journal show your collection with a chronological list of events in each orc
 
 ## More Tab
 
-The More screen contains a menu of additional features. The only available option so far is screen with a searchable list of all orchid genera. 
+The More screen contains a menu of additional features. The only option thus far is a screen showing a searchable list of all orchid genera. Stay tuned for additional features!
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-more-tab.png" height="500" width="250">
 
