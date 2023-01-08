@@ -43,7 +43,9 @@ A multi-table Room SQLite database and for storing, retrieving, and managing dat
 
 ## Screenshots
 
-![MacDown Screenshot](https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png)
+![Ctsm After Dark Journal Screenshot](https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png)
+
+![Cattleya Details Screenshot](https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png)
 
 ## Contributors
 
