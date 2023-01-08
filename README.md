@@ -43,15 +43,21 @@ A multi-table Room SQLite database and for storing, retrieving, and managing dat
 
 ## Screenshots
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="400" width="200"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="400" width="200"> 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="400" width="200">
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="400" width="200">
+
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="400" width="200">
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="400" width="200">
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="400" width="200">
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="400" width="200">
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="400" width="200">
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="400" width="200">
+
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="400" width="200">
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-2.png" height="400" width="200">
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="400" width="200">
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="400" width="200">
 
 ## Contributors
 
