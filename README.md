@@ -43,7 +43,7 @@ Google's latest Material AppCompat and Design library widgets, including Coordin
 A multi-table Room SQLite database and for storing, retrieving, and managing data.
 
 
-## Screenshots
+## Screenshots (click to enlarge)
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="500" width="250">
 
