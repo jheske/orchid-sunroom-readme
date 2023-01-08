@@ -8,7 +8,7 @@
 
 This repository contains information about **OrchidSunroom**, an Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
 
-**This app is in active development and will undergo frequent improvements. Please contact developer with questions, comments, or if you are interested in a particular feature.**
+**This app is in active development and will undergo frequent bug fixes, changes and improvements. Please contact developer with questions, comments, or if you are interested in a particular feature.**
 
 ## Overview
 
