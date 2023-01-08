@@ -8,7 +8,11 @@
 
 This repository contains information about **OrchidSunroom**, an Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
 
-**This app is in active development and will undergo frequent bug fixes, changes and improvements. Please contact developer with questions, comments, or if you are interested in a particular feature.**
+## Beta Testers Needed!!##
+
+This app is not ready for general release to the Play Store. All apps undergo a beta testing phase before release to the general public. I am currently seeking beta testers to try out the app and report usability issues and bugs. Beta testing will involve downloading the app from the Play Store (it will be restricted to testers only) and testing it out on a small subset of your collection. I am committed to providing a feature to reliably back up and restore your collection. However, during the testing phase it is entirely possible that when you install a newer version you will lose all the data you entered previously. 
+
+**The app is in active development and will undergo frequent bug fixes, changes and improvements. Please contact me with questions, comments, or if you are interested in a particular feature.**
 
 ## Overview
 
@@ -44,6 +48,10 @@ A multi-table Room SQLite database and for storing, retrieving, and managing dat
 
 
 ## Screenshots (click to enlarge)
+
+**These are only some of the screens from the app. Coming soon: screenshots of the Image Gallery, detailed views of adding and editing orchids, setting up schedules, and more!**
+
+<br />
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="500" width="250">
 
