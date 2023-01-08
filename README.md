@@ -49,10 +49,10 @@ A multi-table Room SQLite database and for storing, retrieving, and managing dat
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="500" width="250">
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="500" width="250">
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-3.png" height="500" width="250">
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="500" width="250">
-
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
+ 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-more-tab.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-search-genera.png" height="500" width="250">
 
 ## Contributors
