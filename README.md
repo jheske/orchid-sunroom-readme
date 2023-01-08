@@ -31,7 +31,7 @@ Currently the Orchid screen has only one format option. Future versions will inc
 
 ### Add an Orchid
 
-The app allows you add as many orchids as you like. The app will allow you to edit the orchid at any time from the orchid's Details screen (described below).
+The app allows you add as many orchids as you like. 
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid.png" height="500" width="250">
 
@@ -39,7 +39,9 @@ The app allows you add as many orchids as you like. The app will allow you to ed
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid-select-genus.png" height="500" width="250">
 
-#### Then Fill in Details 
+#### Fill in Details 
+
+You can edit details at any time from your orchid's Detail screen (described below).
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid-species.png" height="500" width="250">
 
