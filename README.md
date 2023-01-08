@@ -29,7 +29,15 @@ Currently the Orchid screen has only one format option. Future versions will inc
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-orchids-tab.png" height="500" width="250">
 
+### Image Gallery
+
+Each orchid has its own image gallery. You can add or remove as many images as you like! 
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-one-orchid-image-gallery.png" height="500" width="250">
+
 ### Orchid Details
+
+Use this screen to edit most of the details for your orchid. The app will use information you enter or select to help you search and sort your collection. It also facilitates showing alerts and icons for watering, repotting, and fertilizing schedules.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="500" width="250">
 
