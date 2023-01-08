@@ -18,7 +18,7 @@ Before release to the general public on the Play Store all apps undergo a beta t
 
 # Screenshots (click images to enlarge)
 
-**These are only some of the screens from the app. Coming soon: screenshots of the Image Gallery, detailed views of adding and editing orchids, setting up schedules, and more!**
+**These are only some of the screens from the app.**
 
 
 ## Orchids Tab
@@ -57,7 +57,7 @@ Use this screen you can edit most of the fields shown on the Details page. See a
 
 ### Edit an Orchid's Media
 
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-media.png" height="500" width="250">
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-select-media.png" height="500" width="250">
 
 ### Edit an Orchid's Repotting Schedule
 
@@ -77,7 +77,7 @@ The Journal show your collection with a chronological list of events in each orc
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250">
 
-### Journal for All Orchids
+### Journal for One Orchid
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
 
