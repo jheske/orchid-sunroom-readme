@@ -6,7 +6,9 @@
 
  ![OrchidSunroom icon](https://github.com/jheske/orchid-sunroom/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true)
 
-This repository contains information about **OrchidSunroom**, a Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
+This repository contains information about **OrchidSunroom**, an Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
+
+**This app is in active development and will undergo frequent improvements. Please contact developer with questions, comments, or if you are interested in a particular feature.**
 
 ## Overview
 
