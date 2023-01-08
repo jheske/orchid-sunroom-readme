@@ -40,14 +40,10 @@ Google's latest Material AppCompat and Design library widgets, including Coordin
 
 A multi-table Room SQLite database and for storing, retrieving, and managing data.
 
-### Video
-
-This video shows a very brief overview of the app. More detailed videos coming soon...
-
 
 ## Screenshots
 
-Coming Soon...
+![MacDown Screenshot](https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png)
 
 ## Contributors
 
