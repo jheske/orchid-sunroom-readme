@@ -55,5 +55,5 @@ A multi-table Room SQLite database and for storing, retrieving, and managing dat
 
 ## Contributors
 
-# **©**opyright Jill Heske 2023 all rights reserved
+## **©**opyright Jill Heske 2023 all rights reserved
 
