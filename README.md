@@ -6,29 +6,50 @@
 
  ![OrchidSunroom icon](https://github.com/jheske/orchid-sunroom/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true)
 
- This repository contains information about **OrchidSunroom**, a Android Material design app I am currently designing and implementing in Kotlin on behalf of professional and amateur Orchid growers and enthusiasts to manage their collections.
+This repository contains information about **OrchidSunroom**, a Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
 
-## Screenshots
+## Overview
+
+The app comprises 4 main screens:
+
+### Orchids
+
+This is the Home screen that displays your entire catalog in an endless scrolling list. Clicking on an orchid opens a separate screen where you can edit your orchid and set up its watering and fertilizing schedules.
+	
+Currently the Orchid screen has only one format option. Future versions will include additional formats for displaying your orchids including but not limited to as a list, as a grid with smaller icons, and will offer filter and search features.
+
+### Today
+
+This screen facilitates your daily review of you collection. It allows you to add checkmarks to orchids as you water and fertilize them. It displays icons on orchids that are scheduled for water or fertilizer. 
+
+The Today screen also has quick links to your orchid's Details, Photo Gallery and Journal. 
+
+### Journal
+
+The Journal show your collection with a chronological list of events in each orchid's life and care, including when it was added to your collection, was watered, bloomed, etc.  
+
+### More
+
+The More screen contains a menu of additional features. The only available option so far is screen with a searchable list of all orchid genera.
+
+## Tech Stuff
 
 This project is designed to conform with Google's latest Material Design UI/UX standards. Features may or may not be completed and include, but are not limited to:
 
 Google's latest Material AppCompat and Design library widgets, including CoordinatorLayout, AppBarLayout, CollapsingToolbarLayout, Toolbar, NestedScrollView, TabLayout, ViewPager, RecyclerView, and CardView.
 
-A multi-table SQLite database and for storing, retrieving, and managing data.
+A multi-table Room SQLite database and for storing, retrieving, and managing data.
 
-A detail screen shows details about an Orchid, including genus and species details, as well as history, care and culture information.
+### Video
 
-Allows user to select multiple images of each orchid using the camera, device, or cloud, for each orchid and view images as thumbnails and in full-screen mode.
+This video shows a very brief overview of the app. More detailed videos coming soon...
 
-Provided a variety of portrait and landscape layouts to support both phones and tablets in a variety of screen resolutions.
 
 ## Screenshots
 
-<img src="main_screen_portrait.png" alt="Orchid Sunroom Main Screen" width="300"> <img src="detail_screen_portrait.png" alt="Orchid Sunroom Detail Screen" width="300">
-
-<img src="fullscreen_landscape.png" alt="Orchid Sunroom Image Fullscreen" width="600">
+Coming Soon...
 
 ## Contributors
 
-Copyright Jill Heske 2018 all rights reserved
+# **©**opyright Jill Heske 2023 all rights reserved
 
