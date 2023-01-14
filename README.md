@@ -7,23 +7,34 @@ This repository contains information about **OrchidSunroom**, an Android Materia
 
  ![OrchidSunroom icon](https://github.com/jheske/orchid-sunroom/blob/master/app/src/main/res/mipmap-xhdpi/ic_launcher.png?raw=true)
 
-
 # Beta Testers Needed!!
 
 
 Before release to the general public on the Play Store all apps undergo a beta testing phase. I am currently seeking beta testers to try out Orchid Sunroom and report usability issues and bugs. Beta testing will involve downloading the app from the Play Store (it will be restricted to testers only) and testing it out on a small subset of your collection. I am committed to providing a feature to reliably back up and restore your collection. However, during the testing phase it is entirely possible that when you install a newer version you will lose all the data you entered previously. **And, of course, Beta testers will receive the app and all future updates for free.**
 
-**The app is in active development and will undergo frequent bug fixes, changes and improvements. Please contact me with questions, comments, or if you are interested in a particular feature.**
+
+**Orchid Sunroom is in active development and will undergo frequent bug fixes, changes and improvements. Please contact me with questions, comments, or if you are interested in a particular feature.**
+
+# Future Plans
+
+Here are just a few ideas for future features. Feel free to contact me with your favorite ideas!
+
+* Show more orchid details like parentage and awards
+* Search and sort your collection in lots of different ways
+* Share links to email and social media
+* Email or text alerts for scheduled events
+* Barcodes for each orchid
+* Integrate environmental sensors
+* Create merchandise like T-shirts and greeting cards featuring your orchids
 
 
-# Screenshots (click images to enlarge)
+# Features (click images to enlarge)
 
-**These are only some of the screens from the app.**
+**This section includes only some of the screens from the app. There are lots more!**
 
+## Orchids Screen
 
-## Orchids Tab
-
-This screen screen displays your entire catalog in an endless scrolling list. Clicking on an orchid opens a separate screen where you can edit your orchid and set up its watering and fertilizing schedules. You also use this screen to add new orchids to your collection.
+Displays your entire catalog in an endless scrolling list. Clicking on an orchid opens a separate screen where you can edit your orchid and set up its watering and fertilizing schedules. You also use this screen to add new orchids to your collection.
 	
 Currently the Orchid screen has only one format option. Future versions will include additional formats for displaying your orchids including but not limited to as a list, as a grid with smaller icons, and will offer filter and search features.
 
@@ -31,7 +42,7 @@ Currently the Orchid screen has only one format option. Future versions will inc
 
 ### Add an Orchid
 
-The app allows you add as many orchids as you like. 
+You can add as many orchids as you like to your collection. Each orchid has its own gallery of images and its own journal to keep track of important events like last bloom, new roots, water, and fertilizer.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-add-orchid.png" height="500" width="250">
 
@@ -54,13 +65,13 @@ Each orchid has its own image gallery. You can add or remove as many images as y
 
 ### Orchid Details
 
-Here you can dit most of the details for your orchid. The app will use the information you provide on this screen to help you search and sort your collection. It also facilitates showing reminders and icons for watering, repotting, and fertilizing schedules.
+Here you can edit most of the details for your orchid. The app will use the information you provide on this screen to help you search and sort your collection. It also facilitates showing reminders and icons for watering, repotting, and fertilizing schedules.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-cattleya-details-3.png" height="500" width="250">
 
 ### Edit an Orchid
 
-Use this screen you can edit most of the fields shown on the Details page. See a few examples below.
+You can edit most of the fields shown on the Details page. See a few examples below.
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-1.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-2.png" height="500" width="250"> <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-cattleya-3.png" height="500" width="250">
 
@@ -82,25 +93,40 @@ Use this screen you can edit most of the fields shown on the Details page. See a
 
 ## Today Tab
 
-This screen facilitates your daily review of you collection. It allows you to add checkmarks to orchids as you water and fertilize them. It displays icons on orchids that are scheduled for water or fertilizer. The Today screen also has quick links to your orchid's Details, Photo Gallery and Journal. 
+This screen facilitates your daily review of you collection. Add checkmarks to orchids as you water and fertilize them. Icons show which orchids are scheduled for water or fertilizer. Each orchid also has quick links to its own Details, Photo Gallery and Journal. 
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-today.png" height="500" width="250">
 
 ## Journal Tab
 
-This screen displays the Journal for your entire collection. The Journal is a timeline of events in each orchid's life and care, including when it was added to your collection, was watered, bloomed, etc. You can also view an orchid's individual Journal on its own page.
+The Journal is a timeline of events in each orchid's life and care, including when it was added to your collection, watered, bloomed, etc. You can view the Journal for your entire collection or view an orchid's individual Journal on its own page. Events include:
 
-### Journal for All Orchids
+* Added to Collection
+* Removed from Collection
+* Watered
+* Fertilized
+* Repotted
+* In Bloom
+* In Spike
+* New Growth
+* New Roots
+* Paused Water Schedule
+* Resumed Water Schedule 
+* Paused Fertilizer Schedule
+* Resumed Fertilizer Schedule
+* Freeform Notes (whatever you want!)
+
+### Journal for Entire Collection
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-journal-tab.png" height="500" width="250">
-
-### Journal for One Orchid
-
-<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
 
 ### Journal for a Single Orchid
 
 <img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-catasetum-after-dark-journal.png" height="500" width="250"> 
+
+### Add or Edit a Journal Entry
+
+<img src="https://github.com/jheske/orchid-sunroom-readme/blob/master/screen-edit-journal-entry.png" height="500" width="250">
 
 ## More Tab
 
@@ -114,8 +140,7 @@ The More screen contains a menu of additional features. The only option thus far
 
 # About Me
 
-I've been a professional Android app developer for 10 years and I can say from experience that developing a full-featured, user-friendly mobile app requires an enormous investment of time and expertise! I began writing this app in 2018 and have continued to develop it as my schedule has permitted. Over the past five years I've written lots of other apps for my jobs and seen Google make numerous major changes the Android development platform. prompting me to completely redesign and rewrite this one several times. 
-
+I've been a professional Android app developer for 10 years and I can say from experience that developing a full-featured, user-friendly mobile app requires an enormous investment of time and expertise! I began writing this app in 2018 and have continued to develop it as my schedule has permitted. Over the past five years I've written lots of other apps for my jobs and seen Google make numerous major changes the Android development platform, prompting me to completely redesign and rewrite Orchid Sunroom several times. 
 
 # Tech Stuff
 
