@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/pub/jill-heske/13/836/635">
                 <img src="https://static.licdn.com/scds/common/u/img/webpromo/btn_viewmy_160x33.png" width="160" height="33" border="0" alt="View Jill Heske's profile on LinkedIn"></a>
 
-This repository contains information about **OrchidSunroom**, an Android Material design app I am currently designing and implementing in Kotlin to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections.
+This repository contains information about **Orchid Sunroom**, an app I am currently designing and implementing in FLUTTER to help professional and amateur Orchid growers and enthusiasts catalog and manage their collections. This app is currently targetted to run on both iOS and ANDROID devices. Future plans include Desktop and Web versions.
 
 # About Orchid Sunroom
 
@@ -146,10 +146,16 @@ I've been a professional Android app developer for 10 years and I can say from e
 
 This project is designed to conform with Google's latest Material Design UI/UX standards. Features may or may not be completed and include, but are not limited to:
 
-Google's latest Material AppCompat and Design library widgets, including CoordinatorLayout, AppBarLayout, CollapsingToolbarLayout, Toolbar, NestedScrollView, TabLayout, ViewPager, RecyclerView, and CardView.
+* Flutter clean architecture feature-focused design using the latest productivity packages
+  * Drift database
+  * BloC state management
+  * GetIt dependency injection
+  * ImagePicker for single images from camera and device and multiple images from device
+  * Formz form validation
+  * Json Theme for skinning app
+  * Freezed immutable classes
+  * Firebase for storing genera, media and other static lists (coming soon)
+ 
 
-A Room SQLite database for storing, retrieving, and managing data.
-
-
-## **©**Copyright Jill Heske 2023 all rights reserved
+## **©**Copyright Jill Heske 2024 all rights reserved
 
